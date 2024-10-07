@@ -197,6 +197,10 @@ vendor/firmware/cpp_firmware_v1_8_0.fw
 vendor/lib/libmot_gpu_mapper.so|7c3e8f915ae55f4d0a945e3bfc26b634158bc176
 
 # Camera - mmcamera
+system/lib/libmmcamera_faceproc2.so
+system/lib/libmmcamera_faceproc.so
+system/lib64/libmmcamera_faceproc2.so
+system/lib64/libmmcamera_faceproc.so
 vendor/lib/libmmcamera2_c2d_module.so
 vendor/lib/libmmcamera2_cpp_module.so
 vendor/lib/libmmcamera2_frame_algorithm.so
