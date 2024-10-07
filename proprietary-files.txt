@@ -10,7 +10,7 @@ vendor/lib/libsensorndkbridge.so
 vendor/lib/libtinycompress_vendor.so
 vendor/lib/libunshorten.so
 vendor/lib/soundfx/libmmieffectswrapper.so
-vendor/lib/soundfx/libspeakerbundle.so|af862a0f01a2c2134dffeb47dd6b6dbd6d2efd39
+vendor/lib/soundfx/libspeakerbundle.so|31d50e549ab0008a986853c45046c0441dd1b807
 vendor/lib/soundfx/libswdap.so
 vendor/lib/vendor.dolby.hardware.dms@1.0.so
 vendor/lib/vndk/libtinyalsa.so:vendor/lib/libtinyalsa.so
@@ -332,8 +332,8 @@ vendor/firmware/crus_sp_rx7.bin
 vendor/lib64/libpn553_fw.so
 
 # Sensors
-vendor/lib/sensors.ssc.so|de1d1d944d9b33dd098aa6374bff41b34a1332ad
-vendor/lib64/sensors.ssc.so|dede71f1f2a8131ff6e2d37b69f66e2439ce3893
+vendor/lib/sensors.ssc.so|d32d1a341633f6ddfdcdd227d19b337e8531316d
+vendor/lib64/sensors.ssc.so|e6b5e30556317f0ba64466d3636097d0e4f6ee41
 
 # Sound Card (Marley)
 vendor/firmware/marley-dsp1-ultrasound.bin
